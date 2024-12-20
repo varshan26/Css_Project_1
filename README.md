@@ -1,4 +1,4 @@
-# Css_Project_1
+# Css_Project_ : Rock/Paper/Scissors
 
 This is the CSS/HTML Project specifed in the Odin Project foundation course that specialises in working with basic components of front end web development such as flexbox and CSS.
 
